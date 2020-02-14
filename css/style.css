@@ -1,0 +1,57 @@
+body {
+  background-image:url("../img/sfondolegno.jpg");
+  margin-left:20%;
+  margin-right:20%;
+     }
+
+header{
+  color:white;
+  font-size:1.2em;
+      }
+
+#nomecasella{
+            vertical-align:top;
+            }
+
+#youhave{
+  color:white
+        }
+
+main{
+    height: 130px;
+    border:light;
+      }
+
+.controllamail{
+              background-color:#a7a4a4;
+              border: 1px solid black;
+              font-weight: 600;
+              margin-top:0px;
+              margin-bottom:0px;
+              padding: 3px;
+              height: 1.2em;
+              }
+
+.testo{
+      color:grey;
+      }
+
+.gmail{
+      text-align:center;
+      color:white;
+      margin-top:0px;
+      }
+
+.poweredby{
+          font: italic 0.8em "Fira Sans", serif;
+          }
+
+#cerchio {
+          display: inline-block;
+          width:45px;
+          height:45px;
+          vertical-align: middle;
+          text-align: center;
+          border-radius:50px;
+          background:orange;
+          }
